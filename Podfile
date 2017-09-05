@@ -1,7 +1,7 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '9.0'
 
-source 'https://github.com/LModule/PrivatePods.git'
+source 'https://github.com/VictorerW/PrivatePods.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 target 'A_Category' do

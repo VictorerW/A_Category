@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     this is A_Category
                    DESC
 
-  s.homepage     = "https://github.com/LModule/A_Category.git"
+  s.homepage     = "https://github.com/VictorerW/A_Category.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/LModule/A_Category.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/VictorerW/A_Category.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -136,6 +136,5 @@ Pod::Spec.new do |s|
   # s.dependency "BLNetworking"
   # s.dependency "BLAPIManagers"
   # s.dependency "BLMediator"
-  s.dependency "CTMediator
 
 end
